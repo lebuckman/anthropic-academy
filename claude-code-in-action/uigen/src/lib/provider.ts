@@ -507,10 +507,10 @@ export default function App() {
 }
 
 export function getLanguageModel() {
-  const apiKey = process.env.ANTHROPIC_ACADEMY_API_KEY;
+  const apiKey = process.env.ANTHROPIC_API_KEY;
 
   if (!apiKey || apiKey.trim() === "") {
-    console.log("No ANTHROPIC_ACADEMY_API_KEY found, using mock provider");
+    console.log("No ANTHROPIC_API_KEY found, using mock provider");
     return new MockLanguageModel("mock-claude-sonnet-4-0");
   }
 

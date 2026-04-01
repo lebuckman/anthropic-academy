@@ -21,7 +21,7 @@ To run a single test file: `npx vitest run src/path/to/file.test.tsx`
 
 ## Environment
 
-- `ANTHROPIC_ACADEMY_API_KEY` — optional; if unset, the app runs in mock mode using `MockLanguageModel` (`src/lib/provider.ts`)
+- `ANTHROPIC_API_KEY` — optional; if unset, the app runs in mock mode using `MockLanguageModel` (`src/lib/provider.ts`)
 - Database: SQLite via Prisma at `prisma/dev.db` (gitignored)
 
 ## Architecture

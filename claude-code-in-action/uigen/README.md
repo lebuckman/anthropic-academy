@@ -12,7 +12,7 @@ AI-powered React component generator with live preview.
 1. **Optional** Edit `.env` and add your Anthropic API key:
 
 ```
-ANTHROPIC_ACADEMY_API_KEY=your-api-key-here
+ANTHROPIC_API_KEY=your-api-key-here
 ```
 
 The project will run without an API key. Rather than using a LLM to generate components, static code will be returned instead.
