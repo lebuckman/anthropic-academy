@@ -4,6 +4,6 @@ A collection of notes, projects, and practice from [Anthropic Academy](https://a
 
 ## 📚 Courses
 
-| Course                                            | Status         | Description                                   |
-| ------------------------------------------------- | -------------- | --------------------------------------------- |
-| [Claude Code in Action](./claude-code-in-action/) | 🟡 In Progress | Using Claude Code for real software dev tasks |
+| Course                                            | Status      | Description                              |
+| ------------------------------------------------- | ----------- | ---------------------------------------- |
+| [Claude Code in Action](./claude-code-in-action/) | 🟢 Complete | Integrate Claude Code into dev workflows |
