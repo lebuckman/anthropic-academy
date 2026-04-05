@@ -7,3 +7,4 @@ A collection of notes, projects, and practice from [Anthropic Academy](https://a
 | Course                                            | Status      | Description                              |
 | ------------------------------------------------- | ----------- | ---------------------------------------- |
 | [Claude Code in Action](./claude-code-in-action/) | 🟢 Complete | Integrate Claude Code into dev workflows |
+| [Claude 101](./claude-101/)                       | 🟢 Complete | Understand core Claude features          |
